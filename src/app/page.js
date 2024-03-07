@@ -2,6 +2,6 @@
 
 export default function page() {
   return (
-    <div>New IMDb</div>
+    <div>Home</div>
   )
 }
